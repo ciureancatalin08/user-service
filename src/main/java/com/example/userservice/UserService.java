@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserService {
 
 	public static void main(String[] args) {
-		System.out.println("bugService");
+		System.out.println("userService");
 
 		SpringApplication.run(UserService.class, args);
 	}
