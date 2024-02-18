@@ -84,11 +84,6 @@
 			<version>3.8.0</version>
 		</dependency>
 
-<!--		<dependency>-->
-<!--			<groupId>io.jsonwebtoken</groupId>-->
-<!--			<artifactId>jjwt</artifactId>-->
-<!--			<version>${version.jsonwebtoken}</version>-->
-<!--		</dependency>-->
     </dependencies>
 
 	<build>
@@ -99,5 +94,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
